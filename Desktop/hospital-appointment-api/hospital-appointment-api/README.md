@@ -2,6 +2,8 @@
 
 Prisma CRUD for a hospital appointment domain (Patient, Doctor, Appointment).
 
+> A small update for pull request testing.
+
 ## Setup
 
 ```bash
